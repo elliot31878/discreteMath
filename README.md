@@ -12,7 +12,6 @@ This application, developed in Python, explores the field of Discrete Mathematic
   - [Step 4: Run the Application](#step-4-run-the-application)
 - [Application Overview](#application-overview)
   - [Combinatorics](#combinatorics)
-  - [Graph Theory](#graph-theory)
   - [Logic](#logic)
 - [Code Structure](#code-structure)
 - [Future Features](#future-features)
@@ -22,7 +21,6 @@ This application, developed in Python, explores the field of Discrete Mathematic
 ## Features
 
 - **Combinatorics**: Calculate permutations, combinations, and more.
-- **Graph Theory**: Work with graphs, including creating and analyzing graph properties.
 - **Logic**: Evaluate and manipulate logical statements.
 - **Interactive Interface**: An easy-to-use interface that provides access to various discrete mathematical tools.
 - **Finite and Infinite Structures**: Handle both finite and infinite discrete structures.
